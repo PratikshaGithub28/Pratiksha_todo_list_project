@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A simple to-do list application",
+  "main": "(index.js) App.js",
+  "devDependencies": {},
+  "author": "Pratiksha",
+  "license": "ISC"
 }
